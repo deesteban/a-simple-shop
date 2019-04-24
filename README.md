@@ -1,6 +1,6 @@
-# CoffeeBuzz - A simple bakery.
+# a-simple-shop
 
-A simple, modular, light web shop made from scratch with CSS, JS and PHP. Fully responsive for use with mobile and tablet devices.
+A simple, modular, light web shop made from scratch with CSS, JS and PHP. Fully responsive for use with mobile and tablet devices. In this instance modelled to be a bakery/coffee shop, it provides a lightweight and useful way for customers to purchase items without having to queue in front of the store.
 
 ## How it works
 
