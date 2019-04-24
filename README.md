@@ -34,3 +34,24 @@ A very handy feature is the top display live counter that allows the user to vis
 
 
 ### As a Staff Member (or Admin)
+
+As a staff member, clicking the "Staff Login" button on the navigation bar will land you in this page where pre-authorised memebers can join and look at the realtime view of all the outstanding orders.
+
+![image](https://user-images.githubusercontent.com/49954228/56678797-e7ec5280-6706-11e9-8790-c0f4e3875af3.png)
+
+Once you're in, its a simple uncluttered live table that updates every few seconds that queries the SQL database to view the outstanding orders the barista or staff member needs to attend to. Once the orders are complete the staff member clicks on confirm order and the order leaves the table and the next one replaces it.
+
+![image](https://user-images.githubusercontent.com/49954228/56679095-9c867400-6707-11e9-9c4a-ba5a0082b659.png)
+
+From here you can also add new staff members and remove staff members from the system.
+
+Lastly, you can see some screenshots of the page being used by a mobile device.
+
+![image](https://user-images.githubusercontent.com/49954228/56679308-19195280-6708-11e9-83fc-b719ac8a8aa2.png)
+
+![image](https://user-images.githubusercontent.com/49954228/56679359-39e1a800-6708-11e9-8642-3b6489b3b738.png)
+
+![image](https://user-images.githubusercontent.com/49954228/56679376-482fc400-6708-11e9-946f-8ba9919674cb.png)
+
+![image](https://user-images.githubusercontent.com/49954228/56679425-61d10b80-6708-11e9-9a21-1c87695a4f63.png)
+
